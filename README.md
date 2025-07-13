@@ -19,7 +19,7 @@ This repository serves as a reusable foundation for automating web applications 
 
 ---
 
-## 🧱 Project Structure
+## 🧱 Project Structure subject to changes
 
 ``` bash
 ├── pages/
