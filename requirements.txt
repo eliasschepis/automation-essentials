@@ -1,0 +1,28 @@
+# Core testing tools
+selenium==4.21.0
+pytest==8.2.1
+
+# Explicit waits and selectors
+webdriver-manager==4.0.1
+
+# Reporting (opcional pero útil)
+pytest-html==4.1.1
+allure-pytest==2.13.2
+
+# REST API testing
+requests==2.32.3
+httpx==0.27.0
+
+# Optional: visual testing or cross-browser automation
+playwright==1.44.0
+# playwright install
+pytest-playwright==0.4.3
+
+# Optional: environment handling (env vars)
+python-dotenv==1.0.1
+
+# Optional: linting and formatting
+black==24.4.2
+flake8==7.0.0
+
+# allure necesita su CLI para ver los reportes. Instalable desde: https://docs.qameta.io/allure/
