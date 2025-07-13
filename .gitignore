@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# VSCode / PyCharm configs
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+
+# Reports and logs
+*.log
+allure-report/
+report.html
+htmlcov/
+
+# Playwright artifacts
+playwright-report/
+test-results/
